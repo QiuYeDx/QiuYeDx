@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **Internet Computer** (Dfinity).
-- 🌱 I’m currently learning **Blockchain full stack development*.
-- 👯 I’m looking to collaborate on *ICP* developing.
+- 🌱 I’m currently learning **Blockchain full stack development**.
+- 👯 I’m looking to collaborate on **ICP** developing.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [「秋夜Dx の ブログ」](https://qiuyedx.com)
