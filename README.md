@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Blockchain full stack development**.
 - 👯 I’m looking to collaborate on **ICP** developing.
 - ⚡ Fun fact: 何もないですよ⭐️～
-- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="/src/logo_L.png" width="50" height="25"/></a>
+- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="/src/logo_L.png" width="50" height="25" alt="My Blog"/></a>
