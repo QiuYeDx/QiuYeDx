@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ***Internet Computer*** (Dfinity).
 - 🌱 I’m currently learning **Blockchain full stack development**.
 - 👯 I’m looking to collaborate on **ICP** developing.
-- 📫 How to reach me: [![「秋夜Dx の ブログ」](/src/logo_m.svg)](https://qiuyedx.com)
 - ⚡ Fun fact: 何もないですよ⭐️～
+- 📫 How to reach me: [![「秋夜Dx の ブログ」](/src/logo_mm.svg)](https://qiuyedx.com)
