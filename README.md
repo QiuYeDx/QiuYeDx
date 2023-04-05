@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ***Internet Computer*** (Dfinity).
+
+- 🔭 I’m currently working on ***Front Dev*** .
 - 🌱 I’m currently learning **Blockchain full stack development**.
-- 👯 I’m looking to collaborate on **ICP** developing.
 - ⚡ Fun fact: 何もないですよ⭐️～
-- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="/src/logo_L.png" width="48" height="24" alt="My Blog"/></a>
+- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="http://qiuyedx.com/wp-content/uploads/2022/07/leaf_2.png" width="48" height="24" alt="My Blog"/></a>
