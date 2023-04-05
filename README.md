@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ***Front Dev*** .
 - 🌱 I’m currently learning **Blockchain full stack development**.
 - ⚡ Fun fact: 何もないですよ⭐️～
-- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="https://share.qiuyedx.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/photo/%E5%9B%BE%E5%BA%8A/2023.4/Alist_x_x.png" width="24" height="24" alt="My Blog"/></a>
+- 📫 How to reach me: <a href="https://qiuyedx.com" target="_blank"><img src="https://share.qiuyedx.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/photo/%E5%9B%BE%E5%BA%8A/2023.4/QiuYeDx.png" width="24" height="24" alt="My Blog"/></a>
